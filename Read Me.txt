@@ -1,0 +1,3 @@
+This version has the following changes:
+--> Reward system modified based on the distances from the cats
+--> 2 cats
